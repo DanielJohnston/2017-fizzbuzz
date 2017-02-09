@@ -9,4 +9,8 @@ describe "Testing the fizzbuzz method" do
     expect(fizzbuzz(1)).to eq 1
   end
 
+  it 'responds to 2 with 2' do
+    expect(fizzbuzz(2)).to eq 2
+  end
+
 end
