@@ -9,7 +9,7 @@ The objective of Fizzbuzz is to create a program with the following specificatio
 * [x] When passed a number that is a multiple of *both* 3 and 5, the program ignores the previous 2 rules and returns the message 'Fizzbuzz'.
 * [x] In all other cases, the program simply returns the given number.
 
-When complete we should be able to play in irb like so:
+* [ ] When complete we should be able to play in irb like so:
 
 ```sh
 irb
