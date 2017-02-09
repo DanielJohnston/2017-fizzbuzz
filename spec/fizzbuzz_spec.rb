@@ -28,4 +28,9 @@ describe "Testing the fizzbuzz method" do
   it 'responds to 35 with buzz' do
     expect(fizzbuzz(35)).to eq 'buzz'
   end
+
+  it 'responds to 15 with fizzbuzz' do
+    expect(fizzbuzz(15)).to eq 'fizzbuzz'
+  end
+
 end
