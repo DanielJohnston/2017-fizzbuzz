@@ -13,4 +13,8 @@ describe "Testing the fizzbuzz method" do
     expect(fizzbuzz(2)).to eq 2
   end
 
+  it 'responds to 3 with fizz' do
+    expect(fizzbuzz(3)).to eq 'fizz'
+  end
+
 end
