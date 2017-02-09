@@ -1,3 +1,3 @@
 def fizzbuzz number
-  return 'hello'
+  return 1
 end
